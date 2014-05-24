@@ -4,6 +4,7 @@
 
 ## Creates a list containing functions to cache and call a matrix,
 ## and to catch and call its inverse 
+
 makeCacheMatrix <- function(x = matrix()) {
     
     inverse <- NULL
